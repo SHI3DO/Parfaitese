@@ -17,7 +17,7 @@
 |3인칭 존대형|reneich|renäich|reneicsh|
 |존대형|dens|dent|dendt|
 ### 지시형
-뜻 | 단수형 | 복수형 |
+| 뜻 | 단수형 | 복수형 |
 |---:|:---:|---:|
 |그|eit|eids|
 |이|küra|kora|
