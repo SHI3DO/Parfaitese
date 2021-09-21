@@ -2,4 +2,5 @@
 
 * [Warpäitseich](README.md)
 * [문법](undefined.md)
+* [어휘](README.md)
 
