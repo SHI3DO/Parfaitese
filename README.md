@@ -1,6 +1,8 @@
 # Warpäitseich
 
-{% api-method-summary %}
-Warpäitseich
-{% endapi-method-summary %}
+{% hint style="info" %}
+ Warpäitseich
+{% endhint %}
+
+
 

@@ -1,6 +1,6 @@
 # Table of contents
 
 * [Warpäitseich](README.md)
-* [문법](Gram.md)
-* [어휘](Dict.md)
+* [문법](gram.md)
+* [어휘](dict.md)
 
