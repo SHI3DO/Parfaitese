@@ -1,8 +1,6 @@
 # Werpäitseicht
 
 {% hint style="info" %}
- Warpäitseich
+Warpäitseich
 {% endhint %}
-
-
 
