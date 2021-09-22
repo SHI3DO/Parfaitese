@@ -1,7 +1,6 @@
 # Warpäitseich
 
-{% Warpäitseich %}
 {% api-method-summary %}
-Get sans
+Warpäitseich
 {% endapi-method-summary %}
 
