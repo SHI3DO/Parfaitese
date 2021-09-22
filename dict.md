@@ -2,7 +2,9 @@
 
 ## 대명사
 
-### 단수형
+{% hint style="info" %}
+## 단수형
+{% endhint %}
 
 | 인칭 | 주격 | 소유격 | 목적격 |
 | :--- | :---: | :---: | ---: |
@@ -12,7 +14,9 @@
 | 3인칭형\(여\) | cshe | csher | cshech |
 | 존대형 | dene | danes | dane |
 
-### 복수형
+{% hint style="info" %}
+## 복수형
+{% endhint %}
 
 | 인칭 | 주격 | 소유격 | 목적격 |
 | :--- | :---: | :---: | ---: |
@@ -22,7 +26,9 @@
 | 3인칭 존대형 | reneich | renäich | reneicsh |
 | 존대형 | dens | dent | dendt |
 
-### 지시형
+{% hint style="info" %}
+## 지시형
+{% endhint %}
 
 | 뜻 | 단수형 | 복수형 |
 | :--- | :---: | ---: |
@@ -30,7 +36,9 @@
 | 이 | küra | kora |
 | 저 | dsèra | dsera |
 
-## 관계사
+{% hint style="info" %}
+## 관계
+{% endhint %}
 
 | 뜻 | 파르페어 |  |
 | :--- | :---: | ---: |
