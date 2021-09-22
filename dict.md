@@ -36,9 +36,7 @@
 | 이 | küra | kora |
 | 저 | dsèra | dsera |
 
-{% hint style="info" %}
 ## 관계
-{% endhint %}
 
 | 뜻 | 파르페어 |  |
 | :--- | :---: | ---: |
