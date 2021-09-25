@@ -124,12 +124,111 @@
 | 양어머지 | lümedre |
 | 양아버지 | lüwedre |
 
-#### 미분류
+#### 감정
 
 | 뜻 | 파르페어 | 가변 품사 |
 | ---: | :---: | ---: |
-|  |  |  |
-|  |  |  |
+| 기쁨 | fanir |
+| 감사 | känsir |
+| 편안함 | conbir |
+| 들뜸 | dtünir |
+| 행복 | fenir |
+| 믿음 | vessaich |
+| 느긋함 | juleich |
+| 늑장부리다 | julet | + |
+| 즐거움 | dsenoich |
+| 용기 | cshward |
+| 도전하다 | cshwards | + |
+| 안심 | genshin |
+| ---: | :---: | ---: |
+| 분노 | iköris |
+| 좌절 | kunave |
+| 짜증 | mendseich |
+| 투정 | gatch |
+| 성가심 | dseich |
+| 악의 | väruich |
+| 자기방어 | dseibuss |
+| 안달 | fidskis |
+| 꺼림 | devoich |
+| 진노 | tarköris |
+| ---: | :---: | ---: |
+| 슬픔 | tänavris |
+| 실망 | divris |
+| 무능 | innos |
+| 애달픔 | diskis |
+| 후회 | kärwinus |
+| 우울 | ürgän |
+| 비참 | bidsame |
+| 체념 | cäneis |
+| 환멸 | dimeich |
+| 비통 | tärtüon |
+| ---: | :---: | ---: |
+| 불안 | hurt |
+| 공포 | perre |
+| 걱정 | dsanseich |
+| 압박(스트레스) | eichss |
+| 미침 | keikis |
+| 혼란 | cender |
+| 의심 | üsèrss |
+| 조심 | cui |
+| 연약함(감정) | fücil |
+| 당황 | encshss |
+| ---: | :---: | ---: |
+| 아픔 | tüon |
+| 샘 | sacen |
+| 배신감 | uraces |
+| 소외감 | koiuss |
+| 얼떨떨함 | edsedtoss |
+| 위협받음 | einuss |
+| 무고 | ogurdt |
+| 괴로움 | dsrecen |
+| 고난 | dtrocen |
+| 버림받음 | misèich |
+| ---: | :---: | ---: |
+| 창피 | feisèss |
+| 억눌림 | unvèrmir |
+| 과민 | bachess |
+| 부끄러움 | heck |
+| 외로움 | sevichss |
+| 열등감 | rädsoch |
+| 죄책감 | gomän |
+| 불쾌 | fuceich |
+| 한심 | eräreich |
+| 연민 | eusenss |
+| ---: | :---: | ---: |
+| 사랑 | sävus |
+| 가족애 | fassävus |
+| 내리사랑 | cshsävus |
+| 안갚음 | üsavus |
+| 우정 | domovus |
+| 따름 | cshdag |
+| 감동 | üwèsdt |
+| 자비 | sebech |
+| 상냥함 | eichse |
+| 인류애 | fühvus |
+| ---: | :---: | ---: |
+| 바람 | negeich |
+| 꿈 | cshlap |
+| 희망 | hücen |
+| 탐욕 | sèrtich |
+| 음욕 | dentich |
+| 욕심 | centich |
+| 간절함 | cäfuss |
+| 기대 | ribjuss |
+| 갈급함 | dtesch |
+| 인색 | endseich |
+| ---: | :---: | ---: |
+| 욕구 | örchss |
+| 감정 | geichss |
+| 감성 | keichss |
+| 이성 | senschss |
+
+#### 미분류
+
+| 뜻 | 파르페어 |
+| ---: | ---: |
+|  |  |
+|  |  |
 
 ### 실질명사
 
