@@ -126,8 +126,8 @@
 
 #### 감정
 
-| 뜻 | 파르페어 | 가변 품사 |
-| ---: | :---: | ---: |
+| 뜻 | 파르페어 |
+| ---: | ---: |
 | 기쁨 | fanir |
 | 감사 | känsir |
 | 편안함 | conbir |
@@ -135,10 +135,10 @@
 | 행복 | fenir |
 | 믿음 | vessaich |
 | 느긋함 | juleich |
-| 늑장부리다 | julet | + |
+| +늑장부리다 | julet |
 | 즐거움 | dsenoich |
 | 용기 | cshward |
-| 도전하다 | cshwards | + |
+| +도전하다 | cshwards |
 | 안심 | genshin |
 | ---: | :---: | ---: |
 | 분노 | iköris |
