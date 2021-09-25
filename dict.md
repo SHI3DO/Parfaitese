@@ -237,7 +237,7 @@
 | 가족애 | fassävus |
 | 내리사랑 | cshsävus |
 | 안갚음 | üsavus |
-| 우정 | domovus |
+| 우정 | sinsäch |
 | 따름 | cshdag |
 | 감동 | üwèsdt |
 | 자비 | sebech |
