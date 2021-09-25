@@ -128,7 +128,7 @@
 
 | 뜻 | 파르페어 |
 | ---: | ---: |
-| 기쁨 | fanir |
+| **기쁨** | **fanir** |
 | 감사 | känsir |
 | 편안함 | conbir |
 | 들뜸 | dtünir |
@@ -150,8 +150,7 @@
 | 안달 | fidskis |
 | 꺼림 | devoich |
 | 진노 | tarköris |
-| ---: | :---: | ---: |
-| 슬픔 | tänavris |
+| **슬픔** | **tänavris** |
 | 실망 | divris |
 | 무능 | innos |
 | 애달픔 | diskis |
@@ -161,8 +160,7 @@
 | 체념 | cäneis |
 | 환멸 | dimeich |
 | 비통 | tärtüon |
-| ---: | :---: | ---: |
-| 불안 | hurt |
+| **불안** | **hurt** |
 | 공포 | perre |
 | 걱정 | dsanseich |
 | 압박(스트레스) | eichss |
@@ -172,8 +170,7 @@
 | 조심 | cui |
 | 연약함(감정) | fücil |
 | 당황 | encshss |
-| ---: | :---: | ---: |
-| 아픔 | tüon |
+| **아픔** | **tüon** |
 | 샘 | sacen |
 | 배신감 | uraces |
 | 소외감 | koiuss |
@@ -183,8 +180,7 @@
 | 괴로움 | dsrecen |
 | 고난 | dtrocen |
 | 버림받음 | misèich |
-| ---: | :---: | ---: |
-| 창피 | feisèss |
+| **창피** | **feisèss** |
 | 억눌림 | unvèrmir |
 | 과민 | bachess |
 | 부끄러움 | heck |
@@ -194,8 +190,7 @@
 | 불쾌 | fuceich |
 | 한심 | eräreich |
 | 연민 | eusenss |
-| ---: | :---: | ---: |
-| 사랑 | sävus |
+| **사랑** | **sävus** |
 | 가족애 | fassävus |
 | 내리사랑 | cshsävus |
 | 안갚음 | üsavus |
@@ -205,8 +200,7 @@
 | 자비 | sebech |
 | 상냥함 | eichse |
 | 인류애 | fühvus |
-| ---: | :---: | ---: |
-| 바람 | negeich |
+| **바람** | **negeich** |
 | 꿈 | cshlap |
 | 희망 | hücen |
 | 탐욕 | sèrtich |
@@ -216,7 +210,7 @@
 | 기대 | ribjuss |
 | 갈급함 | dtesch |
 | 인색 | endseich |
-| ---: | :---: | ---: |
+| --- | --- |
 | 욕구 | örchss |
 | 감정 | geichss |
 | 감성 | keichss |
