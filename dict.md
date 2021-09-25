@@ -140,7 +140,7 @@
 | 용기 | cshward |
 | +도전하다 | cshwards |
 | 안심 | genshin |
-| **분노 | iköris** |
+| **분노** | **iköris** |
 | 좌절 | kunave |
 | 짜증 | mendseich |
 | 투정 | gatch |
