@@ -291,7 +291,7 @@
 | 함께함, 동행 | tomort |
 | 배움 | rienus |
 | 꾸밈 | dètion |
-| 기름 | krämus |
+| 기름(키움) | krämus |
 | 좋음 | döcsh |
 | 자유 | dsèjot |
 | 맞음 | dtacsh |
