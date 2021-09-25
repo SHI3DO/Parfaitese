@@ -210,7 +210,9 @@
 | 기대 | ribjuss |
 | 갈급함 | dtesch |
 | 인색 | endseich |
-| --- | --- |
+
+| 뜻 | 파르페어 |
+| :--- | ---: |
 | 욕구 | örchss |
 | 감정 | geichss |
 | 감성 | keichss |
