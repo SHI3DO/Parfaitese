@@ -402,6 +402,7 @@
 | 나라 | gumi |
 | 성격 | cercshtaich |
 | 인물 | cercsh |
+| 현재 | gèrceich |
 
 
 ### 실질명사
