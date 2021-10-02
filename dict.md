@@ -423,8 +423,10 @@
 | 앞 | fön |
 | 뒤 | sön |
 | 내일 | esitèr |
-| 오늘밤 | dsubem |
+| 오늘 | fit |
 | 어제 | därner |
+| 오늘밤 | fitnèr |
+| 일 | xener |
 | 주 | xener |
 | 달 | küdness |
 | 날 | ner |
