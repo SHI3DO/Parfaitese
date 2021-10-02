@@ -79,7 +79,7 @@
 | ~로부터 | förk | 회르크 |
 | ~앞에 | im | fön |
 | ~처럼 | èrnen | 어르난 |
-| ~근처에 | gindter | 긴처 |
+| ~근처에 | gindter | 긴터 |
 | ~의 | if | 이흐 |
 | ~에서 떨어져 | èwv | 어픕 |
 | ~를 너머 | öwe | 외파 |
@@ -281,6 +281,58 @@
 | 감성 | keichss |
 | 이성 | senschss |
 
+#### 수학/
+
+| 점 | docsh |
+| 선 | rhin |
+| 곡선 | rein |
+| 면 | mein |
+| N각형 | Ndeicht |
+| 원 | reichss |
+| 타원 | ceichss |
+| 반원 | nübichreichss |
+| 구 | gindtereichss |
+| 반구 | nübichgindtereichss |
+| 타원체 | gindterceichss |
+| 원환체 | èwceichss |
+| 동심원 | ikeichsreichss |
+| 쌍곡선 | nüjondrein |
+| 점선 | dorhin |
+| 대칭 | dejond |
+| 점대칭 | docshjond |
+| 선대칭 | rhinjond |
+| 면대칭 | mejond |
+| 각 | wessiv |
+| 직각 | sneogwessiv |
+| 예각 | iecshewessiv |
+| 둔각 | nirchtwessiv |
+| 방향 | oire |
+| 직사각형 | snedicsh |
+| 평행사변형 | könificsh |
+| 사다리꼴 | dsèrneicsh |
+| 마름모 | esdeicsh |
+| 정사각형 | kräcsh |
+| 정삼각형 | tèsrivn |
+| 직각삼각형 | sneorivn |
+| 이등변삼각형 | nürivn |
+| 직각이등변삼각형 | snikèrivn |
+| 둔각삼각형 | nirivn |
+| 예각삼각형 | ierivn |
+| 뢸로N각형 | röloNdeicht |
+| 정다각형 | werneideicht |
+| 정N면체 | Nmüskèrss |
+| 정다면체 | werNmüskèrss |
+| 차원 | cimention |
+| 수직 | wighit |
+| 평행 | reicus |
+| N등분 | Nbich |
+| 내분 | imzdsrk |
+| 외분 | ördsurk |
+| 내적 | imwerve |
+| 외적 | örwerve |
+| 미분 | cshdtabich |
+| 적분 | üabich |
+
 #### 미분류
 
 | 뜻 | 파르페어 |
@@ -417,12 +469,25 @@
 | 지옥 | kust |
 | 키스 | chüs |
 | 싸움 | dönkus |
-| 동일같음 | ikeich |
+| 동일/같음 | ikeich |
 | 기초 | dtodeich |
 | 나라 | gumi |
 | 성격 | cercshtaich |
 | 인물 | cercsh |
 | 현재 | gèrceich |
+| 응집 | dtärtèr |
+| 똑바로 | sneocidt |
+| 기울기 | dsèrte |
+| 부족 | rifsidt |
+| 과잉 | jeirein |
+| 완벽 | werfeit |
+| 일치 | diskörd |
+| 불일치 | enckörd |
+| 성실 | meceich |
+| 안 | imhnofos |
+| 밖 | örhnofos |
+| 발사 | icekdt |
+| 표현 | örbeidt |
 
 
 ### 실질명사
@@ -435,6 +500,9 @@
 | 아기 | ecrsch |
 | 암캐 | mässvüt |
 | 친구 | sin |
+
+#### 신체
+
 | 손 | sonj |
 | 발 | puss |
 | 머리 | vèrj |
@@ -457,46 +525,6 @@
 | 빛 | fist |
 | 어둠 | tänèt |
 | 색 | siron |
-| 검은색 | wenjuk |
-| 하얀색 | beicsh |
-| 빨간색 | ekeid |
-| 주황색 | xitrüs |
-| 노란색 | örèm |
-| 녹색 | lip |
-| 연두색 | vislifes |
-| 파란색 | warès |
-| 보라색 | owarès |
-| 바이올렛색 | ävèdt |
-| 피 | rèsdt |
-| 병원 | feichin |
-| 약 | jusurine |
-| 해 | fän |
-| 구름 | kürmo |
-| 눈 | iheve |
-| 태풍 | torsedä |
-| 비 | emäch |
-| 천둥 | röndtgen |
-| 폭풍 | wercshe |
-| 선 | rhin |
-| 창고 | gödtlr |
-| 별 | dtälekion |
-| 달 | dsukion |
-| 수성 | wüdsèkion |
-| 금성 | gindsèkion |
-| 지구 | cshss |
-| 화성 | pièrkion |
-| 목성 | trènkion |
-| 토성 | dtrekion |
-| 천왕성 | cshrekion |
-| 해왕성 | tunkion |
-| 물 | wüds |
-| 금 | ginds |
-| 은 | winds |
-| 불 | pièr |
-| 땅 | dtren |
-| 흙 | dträvin |
-| 하늘 | cshre |
-| 도시 | sere |
 | 상처 | dentch |
 | 흉터 | kid |
 | 젖꼭지 | dsewot |
@@ -518,15 +546,78 @@
 | 음순 | imsèris |
 | 자지 | dsinwe |
 | 보지 | weidsi |
+| 백혈구 | beirèsdt |
+| 적혈구 | ekerèsdt |
+| 혈소판 | dtärèsdt |
+| 피 | rèsdt |
+| 혈장 | rèswüds |
+| 정액 | ceiwüds |
+| 애액 | säwüds |
+| 털 | lès |
+
+#### 색상
+
+| 검은색 | wenjuk |
+| 하얀색 | beicsh |
+| 빨간색 | ekeid |
+| 주황색 | xitrüs |
+| 노란색 | örèm |
+| 녹색 | lip |
+| 연두색 | vislifes |
+| 파란색 | warès |
+| 보라색 | owarès |
+| 바이올렛색 | ävèdt |
+
+#### 천체
+
+| 별 | dtälekion |
+| 달 | dsukion |
+| 수성 | wüdsèkion |
+| 금성 | gindsèkion |
+| 지구 | cshss |
+| 화성 | pièrkion |
+| 목성 | trènkion |
+| 토성 | dtrekion |
+| 천왕성 | cshrekion |
+| 해왕성 | tunkion |
+
+#### 원소
+
+
+| 물 | wüds |
+| 금 | ginds |
+| 은 | winds |
+| 불 | pièr |
+| 땅 | dtren |
+| 흙 | dträvin |
+
+
+| 병원 | feichin |
+| 약 | jusurine |
+| 해 | fän |
+| 구름 | kürmo |
+| 눈 | iheve |
+| 태풍 | torsedä |
+| 비 | emäch |
+| 천둥 | röndtgen |
+| 폭풍 | wercshe |
+| 창고 | gödtlr |
+| 하늘 | cshre |
+| 도시 | sere |
 | 옷 | dteuss |
 | 거울 | keginä |
-| 털 | lès |
+| 돈 | hona |
+
+#### 동물
+
 | 소 | uso |
 | 말 | ume |
 | 닭 | käte |
 | 양 | cshw |
 | 돼지 | swip |
-| 돈 | hona |
+
+#### 계급/직업
+
 | 왕 | haisèr |
 | 황제 | feisèr |
 | 귀족 | luxäms |
