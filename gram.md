@@ -17,7 +17,7 @@
 <table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
  style='border-collapse:collapse;border:none'>
  <tr>
-  <td width=50 valign=top style='width:37.6pt;border:solid windowtext 1.0pt;
+  <td width=100 valign=top style='width:37.6pt;border:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt'>
   <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
   line-height:normal'><span style='font-size:8.0pt'>&nbsp;</span></p>
