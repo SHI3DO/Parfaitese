@@ -5,47 +5,6 @@
 <html>
 
 <head>
-<meta http-equiv=Content-Type content="text/html; charset=utf-8">
-<meta name=Generator content="Microsoft Word 15 (filtered)">
-<style>
-<!--
- /* Font Definitions */
- @font-face
-	{font-family:"Cambria Math";
-	panose-1:2 4 5 3 5 4 6 3 2 4;}
-@font-face
-	{font-family:"Malgun Gothic";
-	panose-1:2 11 5 3 2 0 0 2 0 4;}
-@font-face
-	{font-family:"\@Malgun Gothic";}
- /* Style Definitions */
- p.MsoNormal, li.MsoNormal, div.MsoNormal
-	{margin-top:0in;
-	margin-right:0in;
-	margin-bottom:8.0pt;
-	margin-left:0in;
-	text-align:justify;
-	text-justify:inter-ideograph;
-	line-height:57%;
-	text-autospace:none;
-	word-break:break-all;
-	font-size:10.0pt;
-	font-family:"Malgun Gothic",sans-serif;}
-.MsoChpDefault
-	{font-size:10.0pt;
-	font-family:"Malgun Gothic",sans-serif;}
-.MsoPapDefault
-	{margin-bottom:8.0pt;
-	text-align:justify;
-	text-justify:inter-ideograph;
-	line-height:107%;}
-@page WordSection1
-	{size:1595.3pt 1841.9pt;
-	margin:85.05pt 1.0in 1.0in 1.0in;}
-div.WordSection1
-	{page:WordSection1;}
--->
-</style>
 
 </head>
 
