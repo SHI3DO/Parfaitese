@@ -40,7 +40,7 @@
 	text-justify:inter-ideograph;
 	line-height:107%;}
 @page WordSection1
-	{size:595.3pt 841.9pt;
+	{size:1595.3pt 1841.9pt;
 	margin:85.05pt 1.0in 1.0in 1.0in;}
 div.WordSection1
 	{page:WordSection1;}
