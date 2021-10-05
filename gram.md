@@ -4,8 +4,6 @@
 
 <html>
 
-<head>
-
 </head>
 
 <body lang=EN-US style='word-wrap:break-word'>
@@ -65,7 +63,7 @@
   <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
   line-height:normal'><span lang=KO style='font-size:8.0pt'>구개수</span></p>
   </td>
-  <td width=50 valign=top style='width:52.6pt;border:solid windowtext 1.0pt;
+  <td width=50 valign=top style='width:37.6pt;border:solid windowtext 1.0pt;
   border-left:none;padding:0in 5.4pt 0in 5.4pt'>
   <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
   line-height:normal'><span lang=KO style='font-size:8.0pt'>인두</span></p>
@@ -1205,6 +1203,7 @@
 </body>
 
 </html>
+
 
 
 ## 품사
