@@ -478,6 +478,7 @@
 | 나라 | gumi |
 | 성격 | cercshtaich |
 | 인물 | cercsh |
+| 특징 | ceigusdt |
 | 현재 | gèrceich |
 | 응집 | dtärtèr |
 | 똑바로 | sneocidt |
