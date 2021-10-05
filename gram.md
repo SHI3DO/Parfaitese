@@ -83,7 +83,7 @@
 ### 분사화
 
 1. 자음 + us → 자음 + urg
-2. ich → turg
+2. ich, tion → turg
 3. un → urg
 4. 나머지의 경우
  - 자음이 끝일 경우
