@@ -625,6 +625,22 @@
 | 천왕성 | cshrekion |
 | 해왕성 | tunkion |
 
+#### 지형
+
+| 뜻 | 파르페어 |
+| :--- | ---: |
+| 산맥 | setress |
+| 산 | mitress |
+| 언덕 | ümitress |
+| 바다 | uxien |
+| 강 | njubèr |
+| 호수 | honefos |
+| 하천 | njupond |
+| 평야 | fülabèr |
+| 숲 | moris |
+| 정글 | jengïl |
+| 사막 | deibess |
+
 #### 원소/물질
 
 | 뜻 | 파르페어 |
@@ -638,7 +654,7 @@
 | 공기 | eixe |
 | 고무 | dtärmidt |
 | 기름 | evienc |
-| 산성 | osenbixe |
+| 산성 | wümeigusdt |
 | 염기성 | bezeigusdt |
 | 수소 | wümabixe |
 | 헬륨 | feïsbixe |
