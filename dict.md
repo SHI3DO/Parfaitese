@@ -272,7 +272,7 @@
 | 간절함 | cäfuss |
 | 기대 | ribjuss |
 | 갈급함 | dtesch |
-| 인색 | endseich |닮음
+| 인색 | endseich |
 
 | 뜻 | 파르페어 |
 | :--- | ---: |
