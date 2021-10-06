@@ -493,7 +493,18 @@
 | 밖 | örhnofos |
 | 발사 | icekdt |
 | 표현 | örbeidt |
-
+| 발생 | sendörn |
+| 행사 | eintdörn |
+| 사건 | dèdörn |
+| 관습 | kïsdom |
+| 결혼 | zeiforn |
+| 장례 | kïsdom |
+| 처음 | tèrbïss |
+| 마지막 | thibïss |
+| 위로 | enbüdtn |
+| 결정 | gimetus |
+| 노래 | nedsinc |
+| 흥얼거림 | hènc |
 
 ### 실질명사
 
