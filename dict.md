@@ -122,8 +122,8 @@
 | 그러나 | päv | 페브 |
 | 또는 | kudt | 쿠트 |
 | 그래서 | di | 디 |
-| 또한 | core | 코라 |
-| ~뿐 | decä | 다케 |
+| 또한 | core | 조라 |
+| ~뿐 | decä | 다제 |
 | ~외 | nerich | 나리히 |
 
 ## 명사
@@ -272,7 +272,7 @@
 | 간절함 | cäfuss |
 | 기대 | ribjuss |
 | 갈급함 | dtesch |
-| 인색 | endseich |
+| 인색 | endseich |닮음
 
 | 뜻 | 파르페어 |
 | :--- | ---: |
@@ -334,6 +334,18 @@
 | 외적 | örwerve |
 | 미분 | cshdtabich |
 | 적분 | üabich |
+
+#### 맛
+
+| 뜻 | 파르페어 |
+| :--- | ---: |
+| 단맛 | eüit |
+| 신맛 | ssjulet |
+| 쓴맛 | eivith |
+| 짠맛 | sersio |
+| 매움 | eoich |
+| 떫음 | tordtus |
+| 비림 | nirbeis |
 
 #### 미분류
 
@@ -505,6 +517,14 @@
 | 결정 | gimetus |
 | 노래 | nedsinc |
 | 흥얼거림 | hènc |
+| 용해 | zeibich |
+| 녹음 | bezeich |
+| 힘 | pomjule |
+| 무게 | emorxe |
+| 가벼움 | dèmorch |
+| 무거움 | imemorch |
+| 거짓/거짓말 | nise |
+| 닮음 | mideis |
 
 ### 실질명사
 
@@ -595,6 +615,7 @@
 | :--- | ---: |
 | 별 | dtälekion |
 | 달 | dsukion |
+| 해 | feïs |
 | 수성 | wüdsèkion |
 | 금성 | gindsèkion |
 | 지구 | cshss |
@@ -604,7 +625,7 @@
 | 천왕성 | cshrekion |
 | 해왕성 | tunkion |
 
-#### 원소
+#### 원소/물질
 
 | 뜻 | 파르페어 |
 | :--- | ---: |
@@ -614,6 +635,49 @@
 | 불 | pièr |
 | 땅 | dtren |
 | 흙 | dträvin |
+| 공기 | eixe |
+| 고무 | dtärmidt |
+| 기름 | evienc |
+| 산성 | osenbixe |
+| 염기성 | bezeigusdt |
+| 수소 | wümabixe |
+| 헬륨 | feïsbixe |
+| 리튬 | mapobixe |
+| 베릴륨 | libeirnbixe |
+| 붕소 | voron |
+| 탄소 | deisbixe |
+| 질소 | zèrbixe |
+| 산소 | osenbixe |
+| 불소 | frenbixe |
+| 네온 | näon |
+| 나트륨 | siobixe |
+| 마그네슘 | megnäbixe |
+| 알루미늄 | dèmorbixe |
+| 규소 | silikait |
+| 인 | wospèrbixe |
+| 황 | sèrpur |
+| 염소 | klonibixe |
+| 아르곤 | ergon |
+| 칼륨 | wotebixe |
+| 칼슘 | venebixe |
+| 스칸듐 | skenbixe |
+| 타이타늄 | dteidten |
+| 바나듐 | venedis |
+| 크로뮴 | kromebixe |
+| 망가니즈 | mengeniz |
+| 철 | peron |
+| 코발트 | koboldt |
+| 니켈 | nisekupärn |
+| 구리 | kupärn |
+| 아연 | midmoliv |
+| 갈륨 | gelienium |
+| 저마늄 | gärmenium |
+| 비소 | arsänik |
+| 셀레늄 | salane |
+| 브로민 | vromosium |
+| 크립톤 | krjwdton |
+| 주석 | beirn |
+| 납 | moliv |
 
 | 뜻 | 파르페어 |
 | :--- | ---: |
