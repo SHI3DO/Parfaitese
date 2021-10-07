@@ -13,7 +13,6 @@
 | 2인칭형 | nil | nircht | nir |
 | 3인칭형\(남\) | era | eruchs | erich |
 | 3인칭형\(여\) | cshe | csher | cshech |
-| 존대형 | dene | danes | dane |
 
 {% hint style="info" %}
 ## 복수형
@@ -103,6 +102,7 @@
 | ~를 통해 | dtof | 토흐 |
 | ~없이는 | wersèn | 파르선 |
 | ~이내에 | wersim | 파르심 |
+| ~라면 | mosim | 모심 |
 
 ### 관사
 
