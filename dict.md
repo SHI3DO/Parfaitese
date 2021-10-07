@@ -96,8 +96,8 @@
 
 | 뜻 | 파르페어 |  |
 | :--- | :---: | ---: |
-| 그명사로만 쓰는 것 | dta | 태 |
-| 그다른 품사 존재 | där | 데르 |
+| 관념명사 | dte | 타 |
+| 실질명사 | där | 데르 |
 
 ### 의문관계사
 
@@ -257,6 +257,7 @@
 | **사랑** | **sävus** |
 | 가족애 | fassävus |
 | 내리사랑 | cshsävus |
+| 연애 연애감정 | renmenc |
 | 안갚음 | üsavus |
 | 우정 | sinsäch |
 | 따름 | cshdag |
@@ -287,7 +288,7 @@
 | 뜻 | 파르페어 |
 | :--- | ---: |
 | 점 | docsh |
-| 선 | rhin |
+| 선  | rhin |
 | 곡선 | rein |
 | 면 | mein |
 | N각형 | Ndeicht |
@@ -369,13 +370,15 @@
 | 괴로움 | görteich |
 | 삼 | seitus |
 | 팜 | weich |
-| 함 | ektion |
+| 함 행동 | ektion |
+| 일 | eincxus |
 | 읽음 | jomus |
 | 씀 | vartus |
 | 죽음 | tördt |
 | 죽임 | ensat |
 | 피함 | wardtus |
 | 함께함, 동행 | tomort |
+| 웃음 | mafnus |
 | 배움 | rienus |
 | 꾸밈 | dètion |
 | 기름(키움) | krämus |
@@ -487,6 +490,7 @@
 | 키스 | chüs |
 | 싸움 | dönkus |
 | 동일/같음 | ikeich |
+| 다름 | ikeich |
 | 기초 | dtodeich |
 | 나라 | gumi |
 | 성격 | cercshtaich |
@@ -540,6 +544,18 @@
 | 구매 | veizre |
 | 판매 | heire |
 | 저지름 | seiektion |
+| 홀 혼자 | nevis |
+| 일방통행 외길 | nevisrhin |
+| 동의 | eusindtèn |
+| 거절 | dïpirèr |
+| 결론 | encdsen |
+| 말로 | dsencjen |
+| 올바름 | weirich |
+| 그름 | dseneich |
+| 궁금함 | endtènein |
+| 비극 | dsejeis |
+| 희극 | mafneis |
+| 그림 | aisen |
 
 ### 실질명사
 
