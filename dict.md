@@ -199,10 +199,10 @@
 | 행복 | fenir |
 | 믿음 | vessaich |
 | 느긋함 | juleich |
-| +늑장부리다 | julet |
+| +늑장 | julet |
 | 즐거움 | dsenoich |
 | 용기 | cshward |
-| +도전하다 | cshwards |
+| +도전 | cshwards |
 | 안심 | genshin |
 | **분노** | **iköris** |
 | 좌절 | kunave |
@@ -530,7 +530,16 @@
 | 연결 | endtänèr |
 | 노력 | bejkus |
 | 도발 | biswoke |
-| 구르기 | ecreich |
+| 관계 | ecreich |
+| 성공 | sïnus |
+| 실패 | seile |
+| 시험 | zist |
+| 경험 | inxheiken |
+| 명령 | wedorus |
+| 주문 | mesdeich |
+| 구매 | veizre |
+| 판매 | heire |
+| 저지름 | seiektion |
 
 ### 실질명사
 
@@ -567,9 +576,6 @@
 | 가슴 | gedtèr |
 | 가슴 | munet |
 | 방울 | färt |
-| 빛 | fist |
-| 어둠 | tänèt |
-| 색 | siron |
 | 상처 | dentch |
 | 흉터 | kid |
 | 젖꼭지 | dsewot |
@@ -598,12 +604,17 @@
 | 혈장 | rèswüds |
 | 정액 | ceiwüds |
 | 애액 | säwüds |
+| 침 | reisowüds |
 | 털 | lès |
+| 성 | xeis |
 
 #### 색상
 
 | 뜻 | 파르페어 |
 | :--- | ---: |
+| 빛 | fist |
+| 어둠 | dtänè |
+| 색 | siron |
 | 검은색 | wenjuk |
 | 하얀색 | beicsh |
 | 빨간색 | ekeid |
