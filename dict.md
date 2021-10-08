@@ -385,6 +385,42 @@
 | ~년 | weikz |
 | ~충 | äber |
 
+#### 시간/방향
+
+| 위 | üa |
+| 아래 | cshdta |
+| 왼쪽 | röch |
+| 오른쪽 | dtach |
+| 북 | kirss |
+| 남 | nirss |
+| 동 | äss |
+| 서 | beiss |
+| 앞 | fön |
+| 뒤 | sön |
+| 내일 | esitèr |
+| 오늘 | fit |
+| 어제 | därner |
+| 오늘밤 | fitnèr |
+| 일 | xener |
+| 주 | xener |
+| 달 | küdness |
+| 년 | närn |
+| 날 | ner |
+| 월 | nirner |
+| 화 | sörner |
+| 수 | gudtner |
+| 목 | dörner |
+| 금 | werner |
+| 토 | cshner |
+| 일 | juner |
+| 새벽 | wäidfeit |
+| 아침 | esefeit |
+| 정오 | sirfeit |
+| 낮 | feidt |
+| 저녁 | dsïneit |
+| 밤 | bem |
+| 자정 | dsïbem |
+
 #### 미분류
 
 | 뜻 | 파르페어 |
@@ -463,37 +499,6 @@
 | 나쁨 | väruss |
 | 채도,밀도 | mition |
 | 밝음 | ecerütion |
-| 위 | üa |
-| 아래 | cshdta |
-| 왼쪽 | röch |
-| 오른쪽 | dtach |
-| 북 | kirss |
-| 남 | nirss |
-| 동 | äss |
-| 서 | beiss |
-| 앞 | fön |
-| 뒤 | sön |
-| 내일 | esitèr |
-| 오늘 | fit |
-| 어제 | därner |
-| 오늘밤 | fitnèr |
-| 일 | xener |
-| 주 | xener |
-| 달 | küdness |
-| 날 | ner |
-| 월 | nirner |
-| 화 | sörner |
-| 수 | gudtner |
-| 목 | dörner |
-| 금 | werner |
-| 토 | cshner |
-| 일 | juner |
-| 낮 | feidt |
-| 밤 | bem |
-| 새벽 | wäidfeit |
-| 정오 | sirfeit |
-| 자정 | dsubem |
-| 년 | närn |
 | 맑음 | sinè |
 | 신성함 | cshpeit |
 | 소중함 | deich |
@@ -592,6 +597,9 @@
 | 희극 | mafneis |
 | 그림 | aisen |
 | 타인 남 | dsewèr |
+| 아첨 | thivich |
+| 뇌물 | pentèr |
+| 비리 | minisdtèr |
 
 ### 실질명사
 
