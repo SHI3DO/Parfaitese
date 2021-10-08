@@ -127,13 +127,15 @@
 
 | 뜻 | 파르페어 |  |
 | :--- | :---: | ---: |
-| 그리고 | ger | 가르 |
+| 그리고 | ünt | 윈츠 |
 | 그러나 | päv | 페브 |
-| 또는 | kudt | 쿠트 |
-| 그래서 | di | 디 |
+| 또는 | wir | 피르 |
+| 그래서 | cshs | 슈스 |
+| 그러면 | röm | 룀 |
 | 또한 | core | 조라 |
 | ~뿐 | decä | 다제 |
 | ~외 | nerich | 나리히 |
+| 아닌 | kuis | 쿠이스 |
 
 ## 명사
 
@@ -357,6 +359,32 @@
 | 떫음 | tordtus |
 | 비림 | nirbeis |
 
+#### 비난/비속어
+
+| 새끼 | swinèr |
+| 호로 | meensatnik |
+| 암캐 | mässvüt |
+| 씨발 | chwekt |
+| 젠장 빌어먹을 | vljät |
+| 염병 | kuzret |
+| 병신 | keinwet |
+| 멍청이 | vljät |
+| 뒈짐 뒤짐 디짐 | süwè |
+| 닥쳐 | dtebert |
+| 바보 | dtebert |
+| 빌어먹을 | dtebert |
+| 싸가지 | keress |
+| 애비 | wech |
+| 애미 | mech |
+| 개~ | vüt |
+| 좆 | weikz |
+| 좆까 | weikznirt |
+| 좆나 존나 | wörchwekt |
+| 씹 | chweiz |
+| ~창 | wekt |
+| ~년 | weikz |
+| ~충 | äber |
+
 #### 미분류
 
 | 뜻 | 파르페어 |
@@ -405,12 +433,11 @@
 | 움직임 | üwarus |
 | 멈춤 | hört |
 | 갊 | icus |
-| 서있음 | jüsdtat |
+| 서있음 곤두세움 | jüsdtat |
 | 뜀 | dech |
 | 쏨 | ütvus |
 | 도전 | towus |
 | 가격때림 | negèlt |
-| 새끼 | swinèr |
 | 주인 | gösècsh |
 | 주인 | beicsh |
 | 거대함 | codeich |
@@ -574,7 +601,6 @@
 | 나무 | trèn |
 | 바람 | cedsä |
 | 아기 | ecrsch |
-| 암캐 | mässvüt |
 | 친구 | sin |
 | 인간 | fühwèr |
 
@@ -760,10 +786,12 @@
 | 뜻 | 파르페어 |
 | :--- | ---: |
 | 소 | uso |
+| 개 | nuis |
 | 말 | ume |
 | 닭 | käte |
 | 양 | cshw |
 | 돼지 | swip |
+| 벌레 | äbern |
 
 #### 계급/직업
 
@@ -781,7 +809,7 @@
 | 응 | bü |
 | 아닙니다 | näicht |
 | 아니 | njä |
-| 제발 | luxäms |
+| 제발 | dsägeis |
 | 음 | luxäms |
 | 어 | èh |
 | 아 | eh |
