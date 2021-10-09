@@ -99,7 +99,7 @@
 | ~로 | dsu | 주 |
 | ~아래에 | imdtn | 임튼 |
 | ~까지 | imdèn | 임던 |
-| ~를 통해 | dtof | 토흐 |
+| ~를 지나 | dtof | 토흐 |
 | ~없이는 | wersèn | 파르선 |
 | ~이내에 | wersim | 파르심 |
 | ~라면 | mosim | 모심 |
@@ -477,11 +477,15 @@
 | 주인 | gösècsh |
 | 주인 | beicsh |
 | 거대함 | codeich |
+| 대단함 | kordeich |
+| 훌륭함 | ritveich |
 | 번뜩임 | swaktion |
 | 통합 | üfavus |
 | 연합,연방 | üfaveich |
+| 팀 그룹 | seidt |
 | 영원 | äichan |
 | 친절함 | kindräd |
+| 우정 | kindrein |
 | 떨어짐 | fesus |
 | 그만둠 | demäus |
 | 말함 | iüvus |
@@ -565,6 +569,7 @@
 | 용해 | zeibich |
 | 녹음 | bezeich |
 | 힘 | pomjule |
+| 강함 | èpomjule |
 | 무게 | emorxe |
 | 가벼움 | dèmorch |
 | 무거움 | imemorch |
@@ -600,6 +605,9 @@
 | 아첨 | thivich |
 | 뇌물 | pentèr |
 | 비리 | minisdtèr |
+| 고문 | göbäkus |
+| 삶 | eimüs |
+| 버티기 버팀 | mezrus |
 
 ### 실질명사
 
@@ -616,7 +624,7 @@
 
 | 뜻 | 파르페어 |
 | :--- | ---: |
-| 손 | sonj |
+| 손 | sonc |
 | 발 | puss |
 | 머리 | vèrj |
 | 눈 | mäss |
@@ -822,3 +830,4 @@
 | 어 | èh |
 | 아 | eh |
 | 하하 | cece |
+| 만세 | beirje |
