@@ -391,6 +391,8 @@
 | 아래 | cshdta |
 | 왼쪽 | röch |
 | 오른쪽 | dtach |
+| 가운데 | midere |
+| 중앙 | thumide |
 | 북 | kirss |
 | 남 | nirss |
 | 동 | äss |
@@ -479,6 +481,7 @@
 | 거대함 | codeich |
 | 대단함 | kordeich |
 | 훌륭함 | ritveich |
+| 엄청난 | xupar |
 | 번뜩임 | swaktion |
 | 통합 | üfavus |
 | 연합,연방 | üfaveich |
@@ -608,6 +611,9 @@
 | 고문 | göbäkus |
 | 삶 | eimüs |
 | 버티기 버팀 | mezrus |
+| 구멍 | onerz |
+| 급함 | dseifus |
+| 위급 | zinet |
 
 ### 실질명사
 
@@ -699,7 +705,8 @@
 | :--- | ---: |
 | 별 | dtälekion |
 | 달 | dsukion |
-| 해 | feïs |
+| 태양 | feïs |
+| 해 | fän |
 | 수성 | wüdsèkion |
 | 금성 | gindsèkion |
 | 지구 | cshss |
@@ -708,11 +715,30 @@
 | 토성 | dtrekion |
 | 천왕성 | cshrekion |
 | 해왕성 | tunkion |
+| 소행성체 | dtaiekion |
+| 주계열성 | ekturgkion |
+| 거성 | codeikion |
+| 초거성 | müscodeikion |
+| 극초거성 | dtaiekion |
+| 왜성 | rifsidtkion |
+| 중성자별 | thumidekion |
+| 마그네타 | geiekion |
+| 블랙홀 | wenjukonerz |
+| 퀘이사 | kueiser |
+| 신성 | nitröbe |
+| 초신성 | xuparnitröbe |
 
-#### 지형
+#### 자연/지형
 
 | 뜻 | 파르페어 |
 | :--- | ---: |
+| 구름 | kürmo |
+| 눈 | iheve |
+| 태풍 | torsedä |
+| 비 | emäch |
+| 천둥 | röndtgen |
+| 폭풍 | wercshe |
+| 하늘 | cshre |
 | 산맥 | setress |
 | 산 | mitress |
 | 언덕 | ümitress |
@@ -735,6 +761,7 @@
 | 불 | pièr |
 | 땅 | dtren |
 | 흙 | dträvin |
+| 자석 | geiedt |
 | 공기 | eixe |
 | 고무 | dtärmidt |
 | 기름 | evienc |
@@ -779,23 +806,40 @@
 | 주석 | beirn |
 | 납 | moliv |
 
+
+
+
+
+#### 건물/
+
 | 뜻 | 파르페어 |
 | :--- | ---: |
-| 병원 | feichin |
-| 약 | jusurine |
-| 해 | fän |
-| 구름 | kürmo |
-| 눈 | iheve |
-| 태풍 | torsedä |
-| 비 | emäch |
-| 천둥 | röndtgen |
-| 폭풍 | wercshe |
-| 창고 | gödtlr |
-| 하늘 | cshre |
+| 건물 | jüsdtation |
 | 도시 | sere |
-| 옷 | dteuss |
+| 대도시 | müssere |
+| 병원 | feichin |
+| 창고 | gödtlr |
+
+#### 물건
+
+| 뜻 | 파르페어 |
+| :--- | ---: |
+| 물건 | ssïmonc |
+| 물품 | xupines |
+| 상품 | eichmonï |
 | 거울 | keginä |
+| 약 | jusurine |
 | 돈 | hona |
+| 옷 | dteuss |
+
+#### 식품/음식
+
+| 뜻 | 파르페어 |
+| :--- | ---: |
+| 음식 | mehmed |
+| 식품 | mobenc |
+| 식량 | eichmobenc |
+| 비상식량 | einration |
 
 #### 동물
 
