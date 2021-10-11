@@ -438,28 +438,28 @@
 | 하게 함 | surt |
 | 줌 | torvus |
 | 가져감, 취함 | törus |
-| 가져옴 | wörus |
-| 말함 | iseich |
-| 말함 | dteneich |
-| 누움 | leseich |
+| 가져 | wörus |
+| 말하기 | iseich |
+| 말하기 | dteneich |
+| 눕기 | leseich |
 | 가짐 | mördtus |
 | 잃음 | necshus |
 | 특별함 | dtörtgen |
 | 괴로움 | görteich |
-| 삼 | seitus |
-| 팜 | weich |
-| 함 행동 | ektion |
+| 사기 | seitus |
+| 팔기 | weich |
+| 하기 행동 | ektion |
 | 일 | eincxus |
-| 읽음 | jomus |
-| 씀 | vartus |
-| 죽음 | tördt |
-| 죽임 | ensat |
-| 피함 | wardtus |
-| 함께함, 동행 | tomort |
+| 읽기 | jomus |
+| 쓰기 | vartus |
+| 죽기 | tördt |
+| 죽이기 | ensat |
+| 피하기 | wardtus |
+| 함께하기, 동행 | tomort |
 | 웃음 | mafnus |
-| 배움 | rienus |
-| 꾸밈 | dètion |
-| 기름(키움) | krämus |
+| 배우기 | rienus |
+| 꾸미기 | dètion |
+| 기르기 키우기 | krämus |
 | 좋음 | döcsh |
 | 자유 | dsèjot |
 | 맞음 | dtacsh |
@@ -472,14 +472,15 @@
 | 짧음 | cshènmè |
 | 긺 | negrect |
 | 달리기 | feich |
-| 움직임 | üwarus |
-| 멈춤 | hört |
-| 갊 | icus |
-| 서있음 곤두세움 | jüsdtat |
-| 뜀 | dech |
-| 쏨 | ütvus |
-| 도전 | towus |
-| 가격때림 | negèlt |
+| 움직이기 | üwarus |
+| 멈추기 | hört |
+| 가기 | icus |
+| 서기 곤두세우기 | jüsdtat |
+| 뛰기 | dech |
+| 쏘기 | ütvus |
+| 도전하기 | towus |
+| 가격 때리기 | negèlt |
+| 구타 | gänct |
 | 주인 | gösècsh |
 | 주인 | beicsh |
 | 거대함 | codeich |
@@ -493,28 +494,28 @@
 | 영원 | äichan |
 | 친절함 | kindräd |
 | 우정 | kindrein |
-| 떨어짐 | fesus |
-| 그만둠 | demäus |
-| 말함 | iüvus |
+| 떨어지기 | fesus |
+| 그만두기 | demäus |
+| 선언 | iüvus |
 | 궁금함 | kürus |
 | 답 | antört |
-| 신상새것 | nitrö |
+| 신상 새것 | nitrö |
 | 오래됨,늙음 | rèdtrö |
 | 울음 | necuit |
-| 앎 | kremus |
-| 봄 | fèrt |
-| 만짐 | cheich |
-| 어루만짐,애무 | ächt |
-| 들음 | firdt |
+| 알기 | kremus |
+| 보기 | fèrt |
+| 만지기 | cheich |
+| 어루만지기,애무 | ächt |
+| 듣기 | firdt |
 | 느낌 | krends |
 | 나쁨 | väruss |
 | 채도,밀도 | mition |
-| 밝음 | ecerütion |
+| 밝기 | ecerütion |
 | 맑음 | sinè |
 | 신성함 | cshpeit |
 | 소중함 | deich |
 | 건설 | tükus |
-| 태어남/탄생 | ümarus |
+| 태어나기/탄생 | ümarus |
 | 어려움 | èsdt |
 | 쉬움 | äncsh |
 | 그림 | ägeich |
@@ -618,6 +619,17 @@
 | 구멍 | onerz |
 | 급함 | dseifus |
 | 위급 | zinet |
+| 인쇄 | dtornus |
+| 복사 | peist |
+| 따라함 | codïss |
+| 유산(생물) | lüsun |
+| 유산(경제) | dïpolt |
+| 무산 | rebert |
+| 중단 | ximeich |
+| 꾸짖음 | heizen |
+| 증폭 | xtrime |
+| 확대 | xoderus |
+| 달래기 | meus |
 
 ### 실질명사
 
