@@ -430,206 +430,205 @@
 #### 미분류
 
 | 뜻 | 파르페어 | 동사형 | 파르페어 | 형용사형 | 파르페어 | 부사형 | 파르페어 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 좋아함 호감 | rinvus | 좋아함 호감 | rinvus | 좋아함 호감 | rinvus | 좋아함 호감 | rinvus |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- || 좋아함 호감 | rinvus | 좋아함 호감 | rinvus | 좋아함 호감 | rinvus | 좋아함 호감 | rinvus |
 | 싫어함 혐오 | dicshs | 싫어함 혐오 | dicshs | 싫어함 혐오 | dicshs | 싫어함 혐오 | dicshs |
-| 도움 | hart |
-| 만듦 | marus |
-| 하게 함 | surt |
-| 줌 | torvus |
-| 가져감, 취함 | törus |
-| 가져 | wörus |
-| 말하기 | iseich |
-| 말하기 | dteneich |
-| 눕기 | leseich |
-| 가짐 | mördtus |
-| 잃음 | necshus |
-| 특별함 | dtörtgen |
-| 괴로움 | görteich |
-| 사기 | seitus |
-| 팔기 | weich |
-| 하기 행동 | ektion |
-| 일 | eincxus |
-| 읽기 | jomus |
-| 쓰기 | vartus |
-| 죽기 | tördt |
-| 죽이기 | ensat |
-| 피하기 | wardtus |
-| 함께하기, 동행 | tomort |
-| 웃음 | mafnus |
-| 배우기 | rienus |
-| 꾸미기 | dètion |
-| 기르기 키우기 | krämus |
-| 좋음 | döcsh |
-| 자유 | dsèjot |
-| 맞음 | dtacsh |
-| 그름,틀림 | tügrech |
-| 퇴행 | törtfus |
-| 적음 | scune |
-| 많음 | müs |
-| 멂 | mètn |
-| 가까움 | catn |
-| 짧음 | cshènmè |
-| 긺 | negrect |
-| 달리기 | feich |
-| 움직이기 | üwarus |
-| 멈추기 | hört |
-| 가기 | icus |
-| 서기 곤두세우기 | jüsdtat |
-| 뛰기 | dech |
-| 쏘기 | ütvus |
-| 도전하기 | towus |
-| 가격 때리기 | negèlt |
-| 구타 | gänct |
-| 주인 | gösècsh |
-| 주인 | beicsh |
-| 거대함 | codeich |
-| 대단함 | kordeich |
-| 훌륭함 | ritveich |
-| 엄청난 | xupar |
-| 번뜩임 | swaktion |
-| 통합 | üfavus |
-| 연합,연방 | üfaveich |
-| 팀 그룹 | seidt |
-| 영원 | äichan |
-| 친절함 | kindräd |
-| 우정 | kindrein |
-| 떨어지기 | fesus |
-| 그만두기 | demäus |
-| 선언 | iüvus |
-| 궁금함 | kürus |
-| 답 | antört |
-| 신상 새것 | nitrö |
-| 오래됨,늙음 | rèdtrö |
-| 울음 | necuit |
-| 알기 | kremus |
-| 보기 | fèrt |
-| 만지기 | cheich |
-| 어루만지기,애무 | ächt |
-| 듣기 | firdt |
-| 느낌 | krends |
-| 나쁨 | väruss |
-| 채도,밀도 | mition |
-| 밝기 | ecerütion |
-| 맑음 | sinè |
-| 신성함 | cshpeit |
-| 소중함 | deich |
-| 건설 | tükus |
-| 태어나기/탄생 | ümarus |
-| 어려움 | èsdt |
-| 쉬움 | äncsh |
-| 그림 | ägeich |
-| 사진 | cshärus |
-| 옴 | okuich |
-| 확인 | taicus |
-| 노예 | döretèr |
-| 태움 | vecsh |
-| 혹독함 | ferdoich |
-| 공격 | atuss |
-| 방어 | buss |
-| 잠 | mosus |
-| 변신 | fäveich |
-| 시간 | gikdot |
-| 애교 | beice |
-| 언어 | seicht |
-| 어휘 | dtriogo |
-| 문법 | dseimar |
-| 승리 | higdtor |
-| 패배 | merx |
-| 위기 | üdsèr |
-| 천국 | cshbart |
-| 지옥 | kust |
-| 키스 | chüs |
-| 싸움 | dönkus |
-| 동일/같음 | ikeich |
-| 다름 | ikeich |
-| 기초 | dtodeich |
-| 나라 | gumi |
-| 성격 | cercshtaich |
-| 인물 | cercsh |
-| 특징 | ceigusdt |
-| 현재 | gèrceich |
-| 응집 | dtärtèr |
-| 똑바로 | sneocidt |
-| 기울기 | dsèrte |
-| 부족 | rifsidt |
-| 과잉 | jeirein |
-| 완벽 | werfeit |
-| 일치 | diskörd |
-| 불일치 | enckörd |
-| 성실 | meceich |
-| 안 | imhnofos |
-| 밖 | örhnofos |
-| 발사 | icekdt |
-| 표현 | örbeidt |
-| 발생 | sendörn |
-| 행사 | eintdörn |
-| 사건 | dèdörn |
-| 관습 | kïsdom |
-| 결혼 | zeiforn |
-| 장례 | kïsdom |
-| 처음 | tèrbïss |
-| 마지막 | thibïss |
-| 위로 | enbüdtn |
-| 결정 | gimetus |
-| 노래 | nedsinc |
-| 흥얼거림 | hènc |
-| 용해 | zeibich |
-| 녹음 | bezeich |
-| 힘 | pomjule |
-| 강함 | èpomjule |
-| 무게 | emorxe |
-| 가벼움 | dèmorch |
-| 무거움 | imemorch |
-| 거짓/거짓말 | nise |
-| 닮음 | mideis |
-| 용서 | jurerus |
-| 연결 | endtänèr |
-| 노력 | bejkus |
-| 도발 | biswoke |
-| 관계 | ecreich |
-| 성공 | sïnus |
-| 실패 | seile |
-| 시험 | zist |
-| 경험 | inxheiken |
-| 명령 | wedorus |
-| 주문 | mesdeich |
-| 구매 | veizre |
-| 판매 | heire |
-| 저지름 | seiektion |
-| 홀 혼자 | nevis |
-| 일방통행 외길 | nevisrhin |
-| 동의 | eusindtèn |
-| 거절 | dïpirèr |
-| 결론 | encdsen |
-| 말로 | dsencjen |
-| 올바름 | weirich |
-| 그름 | dseneich |
-| 궁금함 | endtènein |
-| 비극 | dsejeis |
-| 희극 | mafneis |
-| 그림 | aisen |
-| 타인 남 | dsewèr |
-| 아첨 | thivich |
-| 뇌물 | pentèr |
-| 비리 | minisdtèr |
-| 고문 | göbäkus |
-| 삶 | eimüs |
-| 버티기 버팀 | mezrus |
-| 구멍 | onerz |
-| 급함 | dseifus |
-| 위급 | zinet |
-| 인쇄 | dtornus |
-| 복사 | peist |
-| 따라함 | codïss |
-| 유산(생물) | lüsun |
-| 유산(경제) | dïpolt |
-| 무산 | rebert |
-| 중단 | ximeich |
-| 꾸짖음 | heizen |
-| 증폭 | xtrime |
-| 확대 | xoderus |
-| 달래기 | meus |
+| 도움 | hart | 도움 | hart | 도움 | hart | 도움 | hart |
+| 만듦 | marus | 만듦 | marus | 만듦 | marus | 만듦 | marus |
+| 하게 함 | surt | 하게 함 | surt | 하게 함 | surt | 하게 함 | surt |
+| 줌 | torvus | 줌 | torvus | 줌 | torvus | 줌 | torvus |
+| 가져감, 취함 | törus | 가져감, 취함 | törus | 가져감, 취함 | törus | 가져감, 취함 | törus |
+| 가져 | wörus | 가져 | wörus | 가져 | wörus | 가져 | wörus |
+| 말하기 | iseich | 말하기 | iseich | 말하기 | iseich | 말하기 | iseich |
+| 말하기 | dteneich | 말하기 | dteneich | 말하기 | dteneich | 말하기 | dteneich |
+| 눕기 | leseich | 눕기 | leseich | 눕기 | leseich | 눕기 | leseich |
+| 가짐 | mördtus | 가짐 | mördtus | 가짐 | mördtus | 가짐 | mördtus |
+| 잃음 | necshus | 잃음 | necshus | 잃음 | necshus | 잃음 | necshus |
+| 특별함 | dtörtgen | 특별함 | dtörtgen | 특별함 | dtörtgen | 특별함 | dtörtgen |
+| 괴로움 | görteich | 괴로움 | görteich | 괴로움 | görteich | 괴로움 | görteich |
+| 사기 | seitus | 사기 | seitus | 사기 | seitus | 사기 | seitus |
+| 팔기 | weich | 팔기 | weich | 팔기 | weich | 팔기 | weich |
+| 하기 행동 | ektion | 하기 행동 | ektion | 하기 행동 | ektion | 하기 행동 | ektion |
+| 일 | eincxus | 일 | eincxus | 일 | eincxus | 일 | eincxus |
+| 읽기 | jomus | 읽기 | jomus | 읽기 | jomus | 읽기 | jomus |
+| 쓰기 | vartus | 쓰기 | vartus | 쓰기 | vartus | 쓰기 | vartus |
+| 죽기 | tördt | 죽기 | tördt | 죽기 | tördt | 죽기 | tördt |
+| 죽이기 | ensat | 죽이기 | ensat | 죽이기 | ensat | 죽이기 | ensat |
+| 피하기 | wardtus | 피하기 | wardtus | 피하기 | wardtus | 피하기 | wardtus |
+| 함께하기, 동행 | tomort | 함께하기, 동행 | tomort | 함께하기, 동행 | tomort | 함께하기, 동행 | tomort |
+| 웃음 | mafnus | 웃음 | mafnus | 웃음 | mafnus | 웃음 | mafnus |
+| 배우기 | rienus | 배우기 | rienus | 배우기 | rienus | 배우기 | rienus |
+| 꾸미기 | dètion | 꾸미기 | dètion | 꾸미기 | dètion | 꾸미기 | dètion |
+| 기르기 키우기 | krämus | 기르기 키우기 | krämus | 기르기 키우기 | krämus | 기르기 키우기 | krämus |
+| 좋음 | döcsh | 좋음 | döcsh | 좋음 | döcsh | 좋음 | döcsh |
+| 자유 | dsèjot | 자유 | dsèjot | 자유 | dsèjot | 자유 | dsèjot |
+| 맞음 | dtacsh | 맞음 | dtacsh | 맞음 | dtacsh | 맞음 | dtacsh |
+| 그름,틀림 | tügrech | 그름,틀림 | tügrech | 그름,틀림 | tügrech | 그름,틀림 | tügrech |
+| 퇴행 | törtfus | 퇴행 | törtfus | 퇴행 | törtfus | 퇴행 | törtfus |
+| 적음 | scune | 적음 | scune | 적음 | scune | 적음 | scune |
+| 많음 | müs | 많음 | müs | 많음 | müs | 많음 | müs |
+| 멂 | mètn | 멂 | mètn | 멂 | mètn | 멂 | mètn |
+| 가까움 | catn | 가까움 | catn | 가까움 | catn | 가까움 | catn |
+| 짧음 | cshènmè | 짧음 | cshènmè | 짧음 | cshènmè | 짧음 | cshènmè |
+| 긺 | negrect | 긺 | negrect | 긺 | negrect | 긺 | negrect |
+| 달리기 | feich | 달리기 | feich | 달리기 | feich | 달리기 | feich |
+| 움직이기 | üwarus | 움직이기 | üwarus | 움직이기 | üwarus | 움직이기 | üwarus |
+| 멈추기 | hört | 멈추기 | hört | 멈추기 | hört | 멈추기 | hört |
+| 가기 | icus | 가기 | icus | 가기 | icus | 가기 | icus |
+| 서기 곤두세우기 | jüsdtat | 서기 곤두세우기 | jüsdtat | 서기 곤두세우기 | jüsdtat | 서기 곤두세우기 | jüsdtat |
+| 뛰기 | dech | 뛰기 | dech | 뛰기 | dech | 뛰기 | dech |
+| 쏘기 | ütvus | 쏘기 | ütvus | 쏘기 | ütvus | 쏘기 | ütvus |
+| 도전하기 | towus | 도전하기 | towus | 도전하기 | towus | 도전하기 | towus |
+| 가격 때리기 | negèlt | 가격 때리기 | negèlt | 가격 때리기 | negèlt | 가격 때리기 | negèlt |
+| 구타 | gänct | 구타 | gänct | 구타 | gänct | 구타 | gänct |
+| 주인 | gösècsh | 주인 | gösècsh | 주인 | gösècsh | 주인 | gösècsh |
+| 주인 | beicsh | 주인 | beicsh | 주인 | beicsh | 주인 | beicsh |
+| 거대함 | codeich | 거대함 | codeich | 거대함 | codeich | 거대함 | codeich |
+| 대단함 | kordeich | 대단함 | kordeich | 대단함 | kordeich | 대단함 | kordeich |
+| 훌륭함 | ritveich | 훌륭함 | ritveich | 훌륭함 | ritveich | 훌륭함 | ritveich |
+| 엄청난 | xupar | 엄청난 | xupar | 엄청난 | xupar | 엄청난 | xupar |
+| 번뜩임 | swaktion | 번뜩임 | swaktion | 번뜩임 | swaktion | 번뜩임 | swaktion |
+| 통합 | üfavus | 통합 | üfavus | 통합 | üfavus | 통합 | üfavus |
+| 연합,연방 | üfaveich | 연합,연방 | üfaveich | 연합,연방 | üfaveich | 연합,연방 | üfaveich |
+| 팀 그룹 | seidt | 팀 그룹 | seidt | 팀 그룹 | seidt | 팀 그룹 | seidt |
+| 영원 | äichan | 영원 | äichan | 영원 | äichan | 영원 | äichan |
+| 친절함 | kindräd | 친절함 | kindräd | 친절함 | kindräd | 친절함 | kindräd |
+| 우정 | kindrein | 우정 | kindrein | 우정 | kindrein | 우정 | kindrein |
+| 떨어지기 | fesus | 떨어지기 | fesus | 떨어지기 | fesus | 떨어지기 | fesus |
+| 그만두기 | demäus | 그만두기 | demäus | 그만두기 | demäus | 그만두기 | demäus |
+| 선언 | iüvus | 선언 | iüvus | 선언 | iüvus | 선언 | iüvus |
+| 궁금함 | kürus | 궁금함 | kürus | 궁금함 | kürus | 궁금함 | kürus |
+| 답 | antört | 답 | antört | 답 | antört | 답 | antört |
+| 신상 새것 | nitrö | 신상 새것 | nitrö | 신상 새것 | nitrö | 신상 새것 | nitrö |
+| 오래됨,늙음 | rèdtrö | 오래됨,늙음 | rèdtrö | 오래됨,늙음 | rèdtrö | 오래됨,늙음 | rèdtrö |
+| 울음 | necuit | 울음 | necuit | 울음 | necuit | 울음 | necuit |
+| 알기 | kremus | 알기 | kremus | 알기 | kremus | 알기 | kremus |
+| 보기 | fèrt | 보기 | fèrt | 보기 | fèrt | 보기 | fèrt |
+| 만지기 | cheich | 만지기 | cheich | 만지기 | cheich | 만지기 | cheich |
+| 어루만지기,애무 | ächt | 어루만지기,애무 | ächt | 어루만지기,애무 | ächt | 어루만지기,애무 | ächt |
+| 듣기 | firdt | 듣기 | firdt | 듣기 | firdt | 듣기 | firdt |
+| 느낌 | krends | 느낌 | krends | 느낌 | krends | 느낌 | krends |
+| 나쁨 | väruss | 나쁨 | väruss | 나쁨 | väruss | 나쁨 | väruss |
+| 채도,밀도 | mition | 채도,밀도 | mition | 채도,밀도 | mition | 채도,밀도 | mition |
+| 밝기 | ecerütion | 밝기 | ecerütion | 밝기 | ecerütion | 밝기 | ecerütion |
+| 맑음 | sinè | 맑음 | sinè | 맑음 | sinè | 맑음 | sinè |
+| 신성함 | cshpeit | 신성함 | cshpeit | 신성함 | cshpeit | 신성함 | cshpeit |
+| 소중함 | deich | 소중함 | deich | 소중함 | deich | 소중함 | deich |
+| 건설 | tükus | 건설 | tükus | 건설 | tükus | 건설 | tükus |
+| 태어나기/탄생 | ümarus | 태어나기/탄생 | ümarus | 태어나기/탄생 | ümarus | 태어나기/탄생 | ümarus |
+| 어려움 | èsdt | 어려움 | èsdt | 어려움 | èsdt | 어려움 | èsdt |
+| 쉬움 | äncsh | 쉬움 | äncsh | 쉬움 | äncsh | 쉬움 | äncsh |
+| 그림 | ägeich | 그림 | ägeich | 그림 | ägeich | 그림 | ägeich |
+| 사진 | cshärus | 사진 | cshärus | 사진 | cshärus | 사진 | cshärus |
+| 옴 | okuich | 옴 | okuich | 옴 | okuich | 옴 | okuich |
+| 확인 | taicus | 확인 | taicus | 확인 | taicus | 확인 | taicus |
+| 노예 | döretèr | 노예 | döretèr | 노예 | döretèr | 노예 | döretèr |
+| 태움 | vecsh | 태움 | vecsh | 태움 | vecsh | 태움 | vecsh |
+| 혹독함 | ferdoich | 혹독함 | ferdoich | 혹독함 | ferdoich | 혹독함 | ferdoich |
+| 공격 | atuss | 공격 | atuss | 공격 | atuss | 공격 | atuss |
+| 방어 | buss | 방어 | buss | 방어 | buss | 방어 | buss |
+| 잠 | mosus | 잠 | mosus | 잠 | mosus | 잠 | mosus |
+| 변신 | fäveich | 변신 | fäveich | 변신 | fäveich | 변신 | fäveich |
+| 시간 | gikdot | 시간 | gikdot | 시간 | gikdot | 시간 | gikdot |
+| 애교 | beice | 애교 | beice | 애교 | beice | 애교 | beice |
+| 언어 | seicht | 언어 | seicht | 언어 | seicht | 언어 | seicht |
+| 어휘 | dtriogo | 어휘 | dtriogo | 어휘 | dtriogo | 어휘 | dtriogo |
+| 문법 | dseimar | 문법 | dseimar | 문법 | dseimar | 문법 | dseimar |
+| 승리 | higdtor | 승리 | higdtor | 승리 | higdtor | 승리 | higdtor |
+| 패배 | merx | 패배 | merx | 패배 | merx | 패배 | merx |
+| 위기 | üdsèr | 위기 | üdsèr | 위기 | üdsèr | 위기 | üdsèr |
+| 천국 | cshbart | 천국 | cshbart | 천국 | cshbart | 천국 | cshbart |
+| 지옥 | kust | 지옥 | kust | 지옥 | kust | 지옥 | kust |
+| 키스 | chüs | 키스 | chüs | 키스 | chüs | 키스 | chüs |
+| 싸움 | dönkus | 싸움 | dönkus | 싸움 | dönkus | 싸움 | dönkus |
+| 동일/같음 | ikeich | 동일/같음 | ikeich | 동일/같음 | ikeich | 동일/같음 | ikeich |
+| 다름 | ikeich | 다름 | ikeich | 다름 | ikeich | 다름 | ikeich |
+| 기초 | dtodeich | 기초 | dtodeich | 기초 | dtodeich | 기초 | dtodeich |
+| 나라 | gumi | 나라 | gumi | 나라 | gumi | 나라 | gumi |
+| 성격 | cercshtaich | 성격 | cercshtaich | 성격 | cercshtaich | 성격 | cercshtaich |
+| 인물 | cercsh | 인물 | cercsh | 인물 | cercsh | 인물 | cercsh |
+| 특징 | ceigusdt | 특징 | ceigusdt | 특징 | ceigusdt | 특징 | ceigusdt |
+| 현재 | gèrceich | 현재 | gèrceich | 현재 | gèrceich | 현재 | gèrceich |
+| 응집 | dtärtèr | 응집 | dtärtèr | 응집 | dtärtèr | 응집 | dtärtèr |
+| 똑바로 | sneocidt | 똑바로 | sneocidt | 똑바로 | sneocidt | 똑바로 | sneocidt |
+| 기울기 | dsèrte | 기울기 | dsèrte | 기울기 | dsèrte | 기울기 | dsèrte |
+| 부족 | rifsidt | 부족 | rifsidt | 부족 | rifsidt | 부족 | rifsidt |
+| 과잉 | jeirein | 과잉 | jeirein | 과잉 | jeirein | 과잉 | jeirein |
+| 완벽 | werfeit | 완벽 | werfeit | 완벽 | werfeit | 완벽 | werfeit |
+| 일치 | diskörd | 일치 | diskörd | 일치 | diskörd | 일치 | diskörd |
+| 불일치 | enckörd | 불일치 | enckörd | 불일치 | enckörd | 불일치 | enckörd |
+| 성실 | meceich | 성실 | meceich | 성실 | meceich | 성실 | meceich |
+| 안 | imhnofos | 안 | imhnofos | 안 | imhnofos | 안 | imhnofos |
+| 밖 | örhnofos | 밖 | örhnofos | 밖 | örhnofos | 밖 | örhnofos |
+| 발사 | icekdt | 발사 | icekdt | 발사 | icekdt | 발사 | icekdt |
+| 표현 | örbeidt | 표현 | örbeidt | 표현 | örbeidt | 표현 | örbeidt |
+| 발생 | sendörn | 발생 | sendörn | 발생 | sendörn | 발생 | sendörn |
+| 행사 | eintdörn | 행사 | eintdörn | 행사 | eintdörn | 행사 | eintdörn |
+| 사건 | dèdörn | 사건 | dèdörn | 사건 | dèdörn | 사건 | dèdörn |
+| 관습 | kïsdom | 관습 | kïsdom | 관습 | kïsdom | 관습 | kïsdom |
+| 결혼 | zeiforn | 결혼 | zeiforn | 결혼 | zeiforn | 결혼 | zeiforn |
+| 장례 | kïsdom | 장례 | kïsdom | 장례 | kïsdom | 장례 | kïsdom |
+| 처음 | tèrbïss | 처음 | tèrbïss | 처음 | tèrbïss | 처음 | tèrbïss |
+| 마지막 | thibïss | 마지막 | thibïss | 마지막 | thibïss | 마지막 | thibïss |
+| 위로 | enbüdtn | 위로 | enbüdtn | 위로 | enbüdtn | 위로 | enbüdtn |
+| 결정 | gimetus | 결정 | gimetus | 결정 | gimetus | 결정 | gimetus |
+| 노래 | nedsinc | 노래 | nedsinc | 노래 | nedsinc | 노래 | nedsinc |
+| 흥얼거림 | hènc | 흥얼거림 | hènc | 흥얼거림 | hènc | 흥얼거림 | hènc |
+| 용해 | zeibich | 용해 | zeibich | 용해 | zeibich | 용해 | zeibich |
+| 녹음 | bezeich | 녹음 | bezeich | 녹음 | bezeich | 녹음 | bezeich |
+| 힘 | pomjule | 힘 | pomjule | 힘 | pomjule | 힘 | pomjule |
+| 강함 | èpomjule | 강함 | èpomjule | 강함 | èpomjule | 강함 | èpomjule |
+| 무게 | emorxe | 무게 | emorxe | 무게 | emorxe | 무게 | emorxe |
+| 가벼움 | dèmorch | 가벼움 | dèmorch | 가벼움 | dèmorch | 가벼움 | dèmorch |
+| 무거움 | imemorch | 무거움 | imemorch | 무거움 | imemorch | 무거움 | imemorch |
+| 거짓/거짓말 | nise | 거짓/거짓말 | nise | 거짓/거짓말 | nise | 거짓/거짓말 | nise |
+| 닮음 | mideis | 닮음 | mideis | 닮음 | mideis | 닮음 | mideis |
+| 용서 | jurerus | 용서 | jurerus | 용서 | jurerus | 용서 | jurerus |
+| 연결 | endtänèr | 연결 | endtänèr | 연결 | endtänèr | 연결 | endtänèr |
+| 노력 | bejkus | 노력 | bejkus | 노력 | bejkus | 노력 | bejkus |
+| 도발 | biswoke | 도발 | biswoke | 도발 | biswoke | 도발 | biswoke |
+| 관계 | ecreich | 관계 | ecreich | 관계 | ecreich | 관계 | ecreich |
+| 성공 | sïnus | 성공 | sïnus | 성공 | sïnus | 성공 | sïnus |
+| 실패 | seile | 실패 | seile | 실패 | seile | 실패 | seile |
+| 시험 | zist | 시험 | zist | 시험 | zist | 시험 | zist |
+| 경험 | inxheiken | 경험 | inxheiken | 경험 | inxheiken | 경험 | inxheiken |
+| 명령 | wedorus | 명령 | wedorus | 명령 | wedorus | 명령 | wedorus |
+| 주문 | mesdeich | 주문 | mesdeich | 주문 | mesdeich | 주문 | mesdeich |
+| 구매 | veizre | 구매 | veizre | 구매 | veizre | 구매 | veizre |
+| 판매 | heire | 판매 | heire | 판매 | heire | 판매 | heire |
+| 저지름 | seiektion | 저지름 | seiektion | 저지름 | seiektion | 저지름 | seiektion |
+| 홀 혼자 | nevis | 홀 혼자 | nevis | 홀 혼자 | nevis | 홀 혼자 | nevis |
+| 일방통행 외길 | nevisrhin | 일방통행 외길 | nevisrhin | 일방통행 외길 | nevisrhin | 일방통행 외길 | nevisrhin |
+| 동의 | eusindtèn | 동의 | eusindtèn | 동의 | eusindtèn | 동의 | eusindtèn |
+| 거절 | dïpirèr | 거절 | dïpirèr | 거절 | dïpirèr | 거절 | dïpirèr |
+| 결론 | encdsen | 결론 | encdsen | 결론 | encdsen | 결론 | encdsen |
+| 말로 | dsencjen | 말로 | dsencjen | 말로 | dsencjen | 말로 | dsencjen |
+| 올바름 | weirich | 올바름 | weirich | 올바름 | weirich | 올바름 | weirich |
+| 그름 | dseneich | 그름 | dseneich | 그름 | dseneich | 그름 | dseneich |
+| 궁금함 | endtènein | 궁금함 | endtènein | 궁금함 | endtènein | 궁금함 | endtènein |
+| 비극 | dsejeis | 비극 | dsejeis | 비극 | dsejeis | 비극 | dsejeis |
+| 희극 | mafneis | 희극 | mafneis | 희극 | mafneis | 희극 | mafneis |
+| 그림 | aisen | 그림 | aisen | 그림 | aisen | 그림 | aisen |
+| 타인 남 | dsewèr | 타인 남 | dsewèr | 타인 남 | dsewèr | 타인 남 | dsewèr |
+| 아첨 | thivich | 아첨 | thivich | 아첨 | thivich | 아첨 | thivich |
+| 뇌물 | pentèr | 뇌물 | pentèr | 뇌물 | pentèr | 뇌물 | pentèr |
+| 비리 | minisdtèr | 비리 | minisdtèr | 비리 | minisdtèr | 비리 | minisdtèr |
+| 고문 | göbäkus | 고문 | göbäkus | 고문 | göbäkus | 고문 | göbäkus |
+| 삶 | eimüs | 삶 | eimüs | 삶 | eimüs | 삶 | eimüs |
+| 버티기 버팀 | mezrus | 버티기 버팀 | mezrus | 버티기 버팀 | mezrus | 버티기 버팀 | mezrus |
+| 구멍 | onerz | 구멍 | onerz | 구멍 | onerz | 구멍 | onerz |
+| 급함 | dseifus | 급함 | dseifus | 급함 | dseifus | 급함 | dseifus |
+| 위급 | zinet | 위급 | zinet | 위급 | zinet | 위급 | zinet |
+| 인쇄 | dtornus | 인쇄 | dtornus | 인쇄 | dtornus | 인쇄 | dtornus |
+| 복사 | peist | 복사 | peist | 복사 | peist | 복사 | peist |
+| 따라함 | codïss | 따라함 | codïss | 따라함 | codïss | 따라함 | codïss |
+| 유산(생물) | lüsun | 유산(생물) | lüsun | 유산(생물) | lüsun | 유산(생물) | lüsun |
+| 유산(경제) | dïpolt | 유산(경제) | dïpolt | 유산(경제) | dïpolt | 유산(경제) | dïpolt |
+| 무산 | rebert | 무산 | rebert | 무산 | rebert | 무산 | rebert |
+| 중단 | ximeich | 중단 | ximeich | 중단 | ximeich | 중단 | ximeich |
+| 꾸짖음 | heizen | 꾸짖음 | heizen | 꾸짖음 | heizen | 꾸짖음 | heizen |
+| 증폭 | xtrime | 증폭 | xtrime | 증폭 | xtrime | 증폭 | xtrime |
+| 확대 | xoderus | 확대 | xoderus | 확대 | xoderus | 확대 | xoderus |
+| 달래기 | meus | 달래기 | meus | 달래기 | meus | 달래기 | meus |
 
 ### 실질명사
 
