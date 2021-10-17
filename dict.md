@@ -631,7 +631,8 @@
 | 확대 | xoderus | 확대 | xoderus | 확대 | xoderus | 확대 | xoderus |
 | 달래기 | meus | 달래기 | meus | 달래기 | meus | 달래기 | meus |
 | 죄 | gomän | 처벌받다 | gomänerg | 죄스러운 | gomänès | 죄진 것처럼 | gomänju |
-| 벌 | emot'ie | 처벌받다 | emot'ierg | 죄스러운 | emot'iess | 죄진 것처럼 | emot'iecsh |
+| 벌 | emot'ie | 벌하다 | emot'ierg | 형벌의 | emot'iess | 처벌을 통하여/ 처벌을 위하여 | emot'iecsh |
+| 영혼 | seiwis | 명령하다 | seiwiserg | 영적인 | seiwisès | 심령적으로 | seiwisju |
 
 ### 실질명사
 
