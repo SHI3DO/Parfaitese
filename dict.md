@@ -626,13 +626,14 @@
 | 유산(경제) | dïpolt | 유산(경제) | dïpolt | 유산(경제) | dïpolt | 유산(경제) | dïpolt |
 | 무산 | rebert | 무산 | rebert | 무산 | rebert | 무산 | rebert |
 | 중단 | ximeich | 중단 | ximeich | 중단 | ximeich | 중단 | ximeich |
-| 꾸짖음 | heizen | 꾸짖음 | heizen | 꾸짖음 | heizen | 꾸짖음 | heizen |
-| 증폭 | xtrime | 증폭 | xtrime | 증폭 | xtrime | 증폭 | xtrime |
-| 확대 | xoderus | 확대 | xoderus | 확대 | xoderus | 확대 | xoderus |
-| 달래기 | meus | 달래기 | meus | 달래기 | meus | 달래기 | meus |
+| 꾸짖음 | heizen | 꾸짖다 | heizenerg | 꾸짖는 | heizenès | 과하게 | heizenju |
+| 증폭 | xtrime | 증폭하다 | xtrimerg | 증폭의 | xtrimess | 증폭하여 | xtrimecsh |
+| 확대 | xoderus | 확대하다 | xoderart | 확대의 | xoderusès | 확대해서 과장해서 | xoderusju |
+| 달래기 | meus | 달래다 | meart | 양보의 | meusès | 넘겨 | meusju |
 | 죄 | gomän | 처벌받다 | gomänerg | 죄스러운 | gomänès | 죄진 것처럼 | gomänju |
 | 벌 | emot'ie | 벌하다 | emot'ierg | 형벌의 | emot'iess | 처벌을 통하여/ 처벌을 위하여 | emot'iecsh |
 | 영혼 | seiwis | 명령하다 | seiwiserg | 영적인 | seiwisès | 심령적으로 | seiwisju |
+| 수다 | t'umet | 수다떨다 | t'umetèrg | 말이 많은 | t'umetès | 시끄럽게 | t'umetju |
 
 ### 실질명사
 
