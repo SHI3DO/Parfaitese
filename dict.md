@@ -21,7 +21,7 @@
 | 인칭 | 주격 | 소유격 | 목적격 |
 | :--- | :---: | :---: | ---: |
 | 1인칭형 | üder | ünus | üvers |
-| 2인칭형 | ril | rilcht | rin |
+| 2인칭형 | ril | rilcht' | rin |
 | 3인칭형 | ren | rän | räne |
 | 3인칭 존대형 | reneich | renäich | reneicsh |
 | 존대형 | dens | dent | dent' |
