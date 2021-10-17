@@ -374,8 +374,8 @@
 | 멍청이 | vljät |
 | 뒈짐 뒤짐 디짐 | süwè |
 | 닥쳐 | ðebert |
-| 바보 | ðebert |
-| 빌어먹을 | ðebert |
+| 바보 | beiju |
+| 빌어먹을 | ðïbeið |
 | 싸가지 | keress |
 | 애비 | wech |
 | 애미 | mech |
