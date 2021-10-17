@@ -889,8 +889,8 @@
 | 응 | bü |
 | 아닙니다 | näicht |
 | 아니 | njä |
-| 제발 | dsägeis |
-| 음 | luxäms |
+| 제발 | dsägeich |
+| 음 | ïmm |
 | 어 | èh |
 | 아 | eh |
 | 하하 | cece |
