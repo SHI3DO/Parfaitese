@@ -11,6 +11,7 @@
 | 1인칭형 | Ies | ien | ie |
 | 1인칭형\(저\) | Zies | zien | zie |
 | 2인칭형 | nil | nirchð | nir |
+| 2인칭형\(존\) | dene | danes | dane |
 | 3인칭형\(남\) | era | eruchs | erich |
 | 3인칭형\(여\) | cshe | csher | cshech |
 
