@@ -437,6 +437,7 @@
 | 싫어함 혐오 | dicshs | 싫어하다 | dicshs | 싫어하는 | dicshs | 싫게 | dicshs |
 | 도움 | hart | 돕다 | hart | 도움의 | hart | 도움이 되게 | hart |
 | 원조 | nivikus | 원조하다 | nivikart | 원조의 | nivikeis | 자립하게 | nivikïrk |
+| 보호 | sylbie | 보호하다 | sylbierg | 보호하는 | sylbiess | 안전하게 | sylbiecsh |
 | 만듦 | marus | 만듦 | marus | 만듦 | marus | 만듦 | marus |
 | 하게 함 | surt | 하게 함 | surt | 하게 함 | surt | 하게 함 | surt |
 | 줌 | torvus | 줌 | torvus | 줌 | torvus | 줌 | torvus |
