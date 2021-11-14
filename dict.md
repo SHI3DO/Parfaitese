@@ -104,6 +104,7 @@
 | ~없이는 | wersèn | 파르선 |
 | ~이내에 | wersim | 파르심 |
 | ~라면 | mosim | 모심 |
+| ~하다가 | eur | 아우르 |
 
 ### 관사
 
@@ -432,9 +433,10 @@
 
 | 뜻 | 파르페어 | 동사형 | 파르페어 | 형용사형 | 파르페어 | 부사형 | 파르페어 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 좋아함 호감 | rinvus | 좋아함 호감 | rinvus | 좋아함 호감 | rinvus | 좋아함 호감 | rinvus |
-| 싫어함 혐오 | dicshs | 싫어함 혐오 | dicshs | 싫어함 혐오 | dicshs | 싫어함 혐오 | dicshs |
-| 도움 | hart | 도움 | hart | 도움 | hart | 도움 | hart |
+| 좋아함 호감 | rinvus | 좋아하다 | rinvus | 좋아하는 | rinvus | 좋게 | rinvus |
+| 싫어함 혐오 | dicshs | 싫어하다 | dicshs | 싫어하는 | dicshs | 싫게 | dicshs |
+| 도움 | hart | 돕다 | hart | 도움의 | hart | 도움이 되게 | hart |
+| 원조 | nivikus | 원조하다 | nivikart | 원조의 | nivikeis | 자립하게 | nivikïrk |
 | 만듦 | marus | 만듦 | marus | 만듦 | marus | 만듦 | marus |
 | 하게 함 | surt | 하게 함 | surt | 하게 함 | surt | 하게 함 | surt |
 | 줌 | torvus | 줌 | torvus | 줌 | torvus | 줌 | torvus |
@@ -826,10 +828,6 @@
 | 크립톤 | krjwðon |
 | 주석 | beirn |
 | 납 | moliv |
-
-
-
-
 
 #### 건물/
 
