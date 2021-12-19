@@ -638,6 +638,10 @@
 | 벌 | emoðie | 벌하다 | emoðierg | 형벌의 | emoðiess | 처벌을 통하여/ 처벌을 위하여 | emoðiecsh |
 | 영혼 | seiwis | 명령하다 | seiwiserg | 영적인 | seiwisès | 심령적으로 | seiwisju |
 | 수다 | ðumet | 수다떨다 | ðumetèrg | 말이 많은 | ðumetès | 시끄럽게 | ðumetju |
+| 저격 | auk | 저격하다 | aukerg | 저격의 | aukès | 노골적으로 | aukju |
+| 진군 | vinjus | 진군하다 | vinjart | 진군의 | vinjusès | 공격적으로 | vinjïrk |
+| 모집 | ciosen | 모집하다 | ciosenerg | 모집의 | ciosenès | - | ciosenju |
+| 구현 | ßirvenc | 구현하다 | ßirvencerg | 구현의 | ßirvencès | 실질적이게 | ßirvencju |
 
 ### 실질명사
 
