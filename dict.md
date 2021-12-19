@@ -642,6 +642,8 @@
 | 진군 | vinjus | 진군하다 | vinjart | 진군의 | vinjusès | 공격적으로 | vinjïrk |
 | 모집 | ciosen | 모집하다 | ciosenerg | 모집의 | ciosenès | - | ciosenju |
 | 구현 | ßirvenc | 구현하다 | ßirvencerg | 구현의 | ßirvencès | 실질적이게 | ßirvencju |
+| 전쟁 | ponv | 전쟁하다 | ponverg | 전쟁의 | ponvès | 전쟁같이 | ponvju |
+| 총 | ðeith | 총력을 다하다 | ðeitherg | 총적의 | ðeithès | 총적이게 | ðeithju |
 
 ### 실질명사
 
