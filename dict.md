@@ -438,6 +438,7 @@
 | 도움 | hart | 돕다 | hart | 도움의 | hart | 도움이 되게 | hart |
 | 원조 | nivikus | 원조하다 | nivikart | 원조의 | nivikeis | 자립하게 | nivikïrk |
 | 보호 | sylbie | 보호하다 | sylbierg | 보호하는 | sylbiess | 안전하게 | sylbiecsh |
+| 필요 | hignus | 필요하다 | hignus | 필요한 | hignus | 필수적으로 | hignus |
 | 만듦 | marus | 만듦 | marus | 만듦 | marus | 만듦 | marus |
 | 하게 함 | surt | 하게 함 | surt | 하게 함 | surt | 하게 함 | surt |
 | 줌 | torvus | 줌 | torvus | 줌 | torvus | 줌 | torvus |
@@ -453,6 +454,7 @@
 | 사기 | seitus | 사기 | seitus | 사기 | seitus | 사기 | seitus |
 | 팔기 | weich | 팔기 | weich | 팔기 | weich | 팔기 | weich |
 | 하기 행동 | ektion | 하기 행동 | ektion | 하기 행동 | ektion | 하기 행동 | ektion |
+| 생각 | nengeition | 생각하다 | nengeition | 생각의 | nengeition | 생각처럼 | nengeition |
 | 일 | eincxus | 일 | eincxus | 일 | eincxus | 일 | eincxus |
 | 읽기 | jomus | 읽기 | jomus | 읽기 | jomus | 읽기 | jomus |
 | 쓰기 | vartus | 쓰기 | vartus | 쓰기 | vartus | 쓰기 | vartus |
@@ -644,6 +646,8 @@
 | 구현 | ßirvenc | 구현하다 | ßirvencerg | 구현의 | ßirvencès | 실질적이게 | ßirvencju |
 | 전쟁 | ponv | 전쟁하다 | ponverg | 전쟁의 | ponvès | 전쟁같이 | ponvju |
 | 총 | ðeith | 총력을 다하다 | ðeitherg | 총적의 | ðeithès | 총적이게 | ðeithju |
+| 급진 | feseiv | 빠르게 서두르다 | feseiverg | 급진적인 | feseivès | 급진적이게 | feseivju |
+| 모두 | sbon | 합류하다 | sbonerg | 모든 | sbonès | 총체적이게 | sbonju |
 
 ### 실질명사
 
