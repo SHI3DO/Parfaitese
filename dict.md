@@ -286,7 +286,6 @@
 | 욕심 | centich |
 | 간절함 | cäfuss |
 | 기대 | ribjuss |
-| 갈급함 | ðesch |
 | 인색 | enßeich |
 
 | 뜻 | 파르페어 |
@@ -294,7 +293,7 @@
 | 욕구 | örchss |
 | 감정 | geichss |
 | 감성 | keichss |
-| 이성 | senschss |
+| 이성 | sencshss |
 
 #### 수학/도형
 
@@ -650,6 +649,7 @@
 | 총 | ðeith | 총력을 다하다 | ðeitherg | 총적의 | ðeithès | 총적이게 | ðeithju |
 | 급진 | feseiv | 빠르게 서두르다 | feseiverg | 급진적인 | feseivès | 급진적이게 | feseivju |
 | 모두 | sbon | 합류하다 | sbonerg | 모든 | sbonès | 총체적이게 | sbonju |
+| 유일 | isjuwe | 유일하다 | isjuwerg | 유일한 | isjuwess | 유일하게 | isjuwecsh |
 
 ### 실질명사
 
@@ -658,7 +658,7 @@
 | 낢 비행기, 비행체 | plügen |
 | 나무 | trèn |
 | 바람 | ceßä |
-| 아기 | ecrsch |
+| 아기 | ecrcsh |
 | 친구 | sin |
 | 인간 | fühwèr |
 
