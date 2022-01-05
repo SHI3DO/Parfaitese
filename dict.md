@@ -47,6 +47,7 @@
 | 의무가 있는 | doðricsh | 도트리슈 |
 | 아마도 | deicer | 다이자르 |
 | 더욱이 | cäcehn | 제자안 |
+| ~인 | eift | 아이츠 |
 
 ## 의문대명사
 
@@ -433,6 +434,7 @@
 
 | 뜻 | 파르페어 | 동사형 | 파르페어 | 형용사형 | 파르페어 | 부사형 | 파르페어 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 됨 | merius | 되다 | merius | 되는 | merius | 되게 | merius |
 | 좋아함 호감 | rinvus | 좋아하다 | rinvus | 좋아하는 | rinvus | 좋게 | rinvus |
 | 싫어함 혐오 | dicshs | 싫어하다 | dicshs | 싫어하는 | dicshs | 싫게 | dicshs |
 | 도움 | hart | 돕다 | hart | 도움의 | hart | 도움이 되게 | hart |
