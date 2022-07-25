@@ -207,7 +207,14 @@
 
 ##### 특수 수사 대명사
 
-
+|대명사|주격|소유격|목적격|수식격|
+| :-: | :-: | :-: | :-: | :-: |
+|것|inth|init|intz|einil|
+|사람|ohrn|oihr|oitz|oil|
+|분(사람)|keðèr|keðesa|ketze|keil|
+|때문|zig|zich|zitz|zil|
+|때|becsh|bexe|beitz|beil|
+|곳|ceich|ceisa|ceitz|ceil|
 
 
 
