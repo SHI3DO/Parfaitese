@@ -216,8 +216,16 @@
 |때|becsh|bexe|beitz|beil|
 |때문|ceich|ceisa|ceitz|ceil|
 
+## 동사
 
+### 계사
 
+|계사|1인칭 단수|1인칭 복수|2인칭 단수|2인칭 복수|3인칭 단수|3인칭 복수|높임|물건 단수|물건 복수|
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|서술형(이다)|nis|niß|nïn|nins|ðis|ðins|mins|ihn|ihren|
+|완료형(되다)|nesèr|neßèr|nisèr|nißèr|zisèr|tisèr|miens|nerur|neruhr|
+|부정형(아니다)|echð|echs|nichð|nichs|zichð|tichs|migchð|nein|neihr|
+|부정 축약형|nis'ð|niße's|nïn'ð|ninsi's|zisi'ð|tinsi's|mini'ð|ihnein|ihneihr|
 
 
 
