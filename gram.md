@@ -144,7 +144,7 @@
 
 ## 대명사
 
-### 지시 대명사
+### 지칭 대명사
 
 #### 인칭 대명사
 |인칭|주격|소유격|목적격|수식격|
@@ -185,3 +185,22 @@
 |유정|ßèr|ßer|ßin|ßirin|
 |무정|ßèt|ßèr|ßèm|ßèn|
 |높임|ssèv|ssèv|ssèv|ssiv|
+
+### 관계 대명사
+
+#### 의문 대명사
+
+|높임|무엇|누구|어디|언제|어떻게|왜|어째서|어느|무슨|얼마|몇|어떤|웬|
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|매우 높임|Bes|Benèr|Behr|Botz|Borrè|Boich|Bizä|Bith|Bisèhr|Birä|Bikèn|Bous|Bön|
+|높임|Disèhr|Dinnèr|Dihr|Ditz|Dirre|Dich|Dizä|Dith|Disy|Dirä|Dikèn|Dius|Dihn|
+|평서|Dos|Donor|Dohr|Dotz|Dorrè|Doi|Dozä|Doth|Dosèhr|Dorä|Dokèn|Dous|Dön|
+
+
+
+
+
+
+
+
+
