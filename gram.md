@@ -227,6 +227,20 @@
 |부정형(아니다)|echð|echs|nichð|nichs|zichð|tichs|migchð|nein|neihr|
 |부정 축약형|nis'ð|niße's|nïn'ð|ninsi's|zisi'ð|tinsi's|mini'ð|ihnein|ihneihr|
 
+### 조동사
 
-
-
+|조동사|주격|소유격|목적격|수식격|
+| :-: | :-: | :-: | :-: | :-: |
+|-수 있다|dikis|dikin|dikinèn|dikjed|
+|-야 한다|sosð|sosðèn|sosðènèn|sosjed|
+|-어/아 버렸다|jethèr|jethèn|jethènèn|jethjed|
+|-고 싶다|nägeich|nägein|nägeinèn|nägejed|
+|-게 하다|mines|minin|mininèn|minjed|
+|-당하다|sehr|sehrn|sehrèn|sehrjed|
+|-것 같다|misehr|misehrn|misehrèn|misehrjed|
+|-일지 모른다|majo|majon|majonèn|maconjed|
+|-게 되다|dahr|dahrn|dahrèn|dahrjed|
+|-수 밖에 없다|hinerïs|hinern|hinernèn|hinerjed|
+|-고 있다|gèrceich|gèrcein|gèrceinèn|gèrcejed|
+|-도 좋다|gof|dofïn|gofèn|gofèrjed|
+|-게 낫다|geich|gein|geinèn|gejed|
