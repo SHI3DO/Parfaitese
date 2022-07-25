@@ -196,6 +196,17 @@
 |높임|Disèhr|Dinnèr|Dihr|Ditz|Dirre|Dich|Dizä|Dith|Disy|Dirä|Dikèn|Dius|Dihn|
 |평서|Dos|Donor|Dohr|Dotz|Dorrè|Doi|Dozä|Doth|Dosèhr|Dorä|Dokèn|Dous|Dön|
 
+#### 수사 대명사
+
+|계열|주격|소유격|목적격|수식격|
+| :-: | :-: | :-: | :-: | :-: |
+|-은(-한)|Vißèr|Vühen|Visèr|Visèr|
+|-는(-인)|||||
+|-을(-할)|||||
+|-(했)던|||||
+
+##### 특수 수사 대명사
+
 
 
 
