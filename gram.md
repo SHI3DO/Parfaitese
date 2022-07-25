@@ -147,14 +147,14 @@
 ### 인칭 대명사
 |인칭|주격|소유격|목적격|수식격|
 | :-: | :-: | :-: | :-: | :-: |
-|1인칭 단수|is|ien|ies|je|
+|1인칭 단수|is|ino|ien|je|
 |1인칭 겸양 단수|nia|ninèn|nin|nine|
 |2인칭 단수|nil|nino|nich|nije|
 |2인칭 존대 단수|dene|danes|dane|danèn|
 |3인칭 남성 단수|kai|kano|kein|karich|
 |3인칭 여성 단수|lai|lano|lein|laich|
 |3인칭 존대 단수|den|deno|dein|deich|
-|1인칭 복수|üdèr|ünus|üvèrs|üne|
+|1인칭 복수|üdèr|ünus|ühr|üne|
 |1인칭 겸양 복수|uire|uiron|uihr|urue|
 |2인칭 복수|ril|rilon|rich|rije|
 |2인칭 존대 복수|dens|dent|denð|denje|
