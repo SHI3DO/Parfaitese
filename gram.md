@@ -212,9 +212,9 @@
 |것|inth|init|intz|einil|
 |사람|ohrn|oihr|oitz|oil|
 |분(사람)|keðèr|keðesa|ketze|keil|
-|때문|zig|zich|zitz|zil|
+|곳|zig|zich|zitz|zil|
 |때|becsh|bexe|beitz|beil|
-|곳|ceich|ceisa|ceitz|ceil|
+|때문|ceich|ceisa|ceitz|ceil|
 
 
 
